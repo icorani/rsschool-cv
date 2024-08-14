@@ -15,10 +15,10 @@
 * English (A2)
 
 ##Code Example
-'''multiply = function (a, b) {
+```multiply = function (a, b) {
   return a * b;
 }
-'''
+```
 
 ## Контакты
 * email: icorani@ya.ru
