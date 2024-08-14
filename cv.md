@@ -10,6 +10,16 @@
 * Python (Flask, Django, DRF, SOLID, DRY, Patterns)
 * JavaScript - beginner
 
+## Languages
+* Russian (native)
+* English (A2)
+
+##Code Example
+'''multiply = function (a, b) {
+  return a * b;
+}
+'''
+
 ## Контакты
 * email: icorani@ya.ru
 * Discord: 
